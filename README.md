@@ -1,1 +1,1 @@
-# omikuji
+# omikuji2
